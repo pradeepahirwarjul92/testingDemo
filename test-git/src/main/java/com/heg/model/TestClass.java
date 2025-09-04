@@ -5,6 +5,11 @@ public void add(int a, int b){
 	System.out.println(a+b);
 	System.out.println("Hii");
 }
+
+	public void subtractMethod(int a, int b){
+	System.out.println(a+b);
+	System.out.println("Hii");
+}
 	
 public void multiplicationMethod(int a, int b){
 	System.out.println(a*b);
